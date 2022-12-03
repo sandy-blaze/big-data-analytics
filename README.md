@@ -9,3 +9,5 @@
 # -- displaying output
 ### hdfs dfs -cat \<output-path-in-hdfs>/*
 
+# -- deleting output folder
+### hdfs dfs -rmr \<output-path-in-hdfs>
